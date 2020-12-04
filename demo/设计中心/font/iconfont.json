@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "627006",
+      "name": "dianhua",
+      "font_class": "dianhua",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "688458",
+      "name": "weixin",
+      "font_class": "weixin",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "714023",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "851463",
+      "name": "jiantouyou",
+      "font_class": "jiantouyou",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "4936987",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "8046831",
+      "name": "zuojiantou",
+      "font_class": "zuojiantou",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "14583255",
+      "name": "jia",
+      "font_class": "jia",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
